@@ -1,0 +1,24 @@
+\\lesoco\waterloo\studentdata$\35039327\documents\visual studio 2015\Projects\Profit loss account\Profit loss account\bin\Debug\Profit loss account.exe.config
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\bin\Debug\Profit loss account.exe
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\bin\Debug\Profit loss account.pdb
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\bin\Debug\Profit loss account.xml
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\obj\Debug\Profit loss account.vbprojResolveAssemblyReference.cache
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\obj\Debug\Profit_loss_account.Form2.resources
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\obj\Debug\Profit_loss_account.Form3.resources
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\obj\Debug\Profit_loss_account.Resources.resources
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\obj\Debug\Profit loss account.vbproj.GenerateResource.Cache
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\obj\Debug\Profit loss account.exe
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\obj\Debug\Profit loss account.xml
+\\lesoco\waterloo\StudentData$\35039327\Documents\Visual Studio 2015\Projects\Profit loss account\Profit loss account\obj\Debug\Profit loss account.pdb
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\bin\Debug\Profit loss account.exe.config
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\obj\Debug\Profit loss account.exe
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\obj\Debug\Profit loss account.xml
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\obj\Debug\Profit loss account.pdb
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\bin\Debug\Profit loss account.exe
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\bin\Debug\Profit loss account.pdb
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\bin\Debug\Profit loss account.xml
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\obj\Debug\Profit loss account.vbprojResolveAssemblyReference.cache
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\obj\Debug\Profit_loss_account.Form2.resources
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\obj\Debug\Profit_loss_account.Form3.resources
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\obj\Debug\Profit_loss_account.Resources.resources
+E:\college\Year Two\Unit 14 - Event Driven Programming\Profit loss account\Profit loss account\obj\Debug\Profit loss account.vbproj.GenerateResource.Cache

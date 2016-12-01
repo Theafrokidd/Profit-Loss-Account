@@ -1,0 +1,5 @@
+﻿Total Income:132432
+Total Expenditure:833
+Profit / Loss:131599
+Corporate tax:0
+Net Profit:0
